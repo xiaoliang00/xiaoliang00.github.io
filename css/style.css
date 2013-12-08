@@ -466,7 +466,7 @@ div .tagslist ul li a:hover{
   color: #ea6753;
   }
 .rsspart{
-  background: #ea6753;
+  background: ##09AB9C;
 }
 .rsspart a{
   display: block;
@@ -1073,7 +1073,7 @@ li.L1,li.L3,li.L5,li.L7,li.L9 { }
       display: none;
     }
     .closebutton{
-      color: #ea6753;
+      color: #fff;
     }
     /*头部*/
     img[alt="Alimon"]{
